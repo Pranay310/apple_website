@@ -16,6 +16,10 @@ body {
   background: #000;
   border-color: #3b3b3b;
   user-select: none;
+  
+}
+body::-webkit-scrollbar{
+  display: none;
 }
 
 canvas {
